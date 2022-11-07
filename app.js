@@ -51,6 +51,3 @@ times.addEventListener(`click`, () => {
         times.disabled = true;
     }
 });
-
-
-// When finished, create a repository in the “DOMEventsExercise” Folder as well as on GitHub. Add and commit everything in the DOMEventsExercise folder and push it up to your GitHub repository. Then paste the link to your GitHub repository page in the form in google classroom.
